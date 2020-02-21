@@ -1,9 +1,7 @@
 import React, {createContext} from 'react';
 
-const ProductContext = () => {
-    return (
-        <></>
-    )
-};
+
+const ProductContext = createContext();
+    
 
 export default ProductContext;

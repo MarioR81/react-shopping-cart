@@ -1,5 +1,6 @@
 import React from 'react';
 
+import CartContext from '../contexts/CartContext';
 // Components
 import Item from './ShoppingCartItem';
 
